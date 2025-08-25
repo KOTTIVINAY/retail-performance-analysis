@@ -1,0 +1,67 @@
+OrderID,Date,Product,Category,Quantity,Price,Profit
+1,2024-01-01,Headphones,Electronics,3,1500,645
+2,2024-01-01,Phone,Electronics,2,20000,5978
+3,2024-01-01,Washing Machine,Appliances,1,28000,5369
+4,2024-01-04,Washing Machine,Appliances,1,28000,4686
+5,2024-01-04,Washing Machine,Appliances,2,28000,8979
+6,2024-01-04,T-Shirt,Fashion,1,800,124
+7,2024-01-07,Jacket,Fashion,2,3500,870
+8,2024-01-07,Jacket,Fashion,1,3500,506
+9,2024-01-10,Laptop,Electronics,1,50000,8768
+10,2024-01-13,T-Shirt,Fashion,1,800,127
+11,2024-01-16,Blender,Appliances,1,4000,642
+12,2024-01-16,Refrigerator,Appliances,2,35000,10042
+13,2024-01-16,Laptop,Electronics,2,50000,15557
+14,2024-01-19,Shoes,Fashion,4,3000,1329
+15,2024-01-19,Blender,Appliances,2,4000,1620
+16,2024-01-19,T-Shirt,Fashion,4,800,503
+17,2024-01-22,Shoes,Fashion,3,3000,1287
+18,2024-01-25,Jacket,Fashion,1,3500,496
+19,2024-01-25,Jeans,Fashion,1,1200,175
+20,2024-01-25,Refrigerator,Appliances,1,35000,5954
+21,2024-01-28,Phone,Electronics,2,20000,6108
+22,2024-01-28,Washing Machine,Appliances,1,28000,4608
+23,2024-01-31,Shoes,Fashion,2,3000,918
+24,2024-01-31,Jeans,Fashion,1,1200,176
+25,2024-02-03,Television,Electronics,2,40000,14699
+26,2024-02-03,Refrigerator,Appliances,1,35000,4999
+27,2024-02-03,Shoes,Fashion,2,3000,717
+28,2024-02-06,Shoes,Fashion,2,3000,707
+29,2024-02-09,Microwave,Appliances,2,10000,4203
+30,2024-02-09,Phone,Electronics,4,20000,12453
+31,2024-02-12,Shoes,Fashion,2,3000,862
+32,2024-02-15,Phone,Electronics,1,20000,3491
+33,2024-02-15,Phone,Electronics,2,20000,5671
+34,2024-02-18,Shoes,Fashion,3,3000,1148
+35,2024-02-18,Television,Electronics,3,40000,21412
+36,2024-02-21,Refrigerator,Appliances,4,35000,25325
+37,2024-02-21,T-Shirt,Fashion,3,800,387
+38,2024-02-21,Laptop,Electronics,1,50000,7676
+39,2024-02-24,Microwave,Appliances,1,10000,1809
+40,2024-02-27,Shoes,Fashion,1,3000,340
+41,2024-03-01,Jacket,Fashion,1,3500,438
+42,2024-03-04,Microwave,Appliances,2,10000,4110
+43,2024-03-04,Blender,Appliances,1,4000,659
+44,2024-03-07,Refrigerator,Appliances,1,35000,5948
+45,2024-03-07,Refrigerator,Appliances,4,35000,22168
+46,2024-03-07,Jeans,Fashion,1,1200,191
+47,2024-03-10,Washing Machine,Appliances,2,28000,9169
+48,2024-03-10,Shoes,Fashion,1,3000,477
+49,2024-03-13,Refrigerator,Appliances,2,35000,11492
+50,2024-03-13,Microwave,Appliances,1,10000,1560
+51,2024-03-13,Washing Machine,Appliances,2,28000,9397
+52,2024-03-16,Jeans,Fashion,2,1200,415
+53,2024-03-16,Refrigerator,Appliances,3,35000,14598
+54,2024-03-16,Laptop,Electronics,1,50000,7173
+55,2024-03-19,Jeans,Fashion,1,1200,198
+56,2024-03-19,Washing Machine,Appliances,2,28000,9667
+57,2024-03-19,Microwave,Appliances,3,10000,5144
+58,2024-03-22,Jeans,Fashion,1,1200,191
+59,2024-03-22,Washing Machine,Appliances,1,28000,5329
+60,2024-03-22,Microwave,Appliances,1,10000,1730
+61,2024-03-25,Television,Electronics,2,40000,15484
+62,2024-03-25,Jacket,Fashion,2,3500,1152
+63,2024-03-28,Shoes,Fashion,4,3000,1389
+64,2024-03-28,Washing Machine,Appliances,3,28000,12942
+65,2024-03-28,Refrigerator,Appliances,4,35000,23430
+66,2024-03-31,Television,Electronics,2,40000,16295
