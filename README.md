@@ -12,7 +12,7 @@ This repo contains **two complete data analytics projects** done as part of my 2
 - Tools: SQL, Python (Pandas, Matplotlib), Excel
 - Deliverables: Dataset, SQL queries, Python analysis, charts, insights, and final report.
 
-📂 Folder: [`Retail_Project_FULL/`](./Retail_Project_FULL)
+📂 Folder: [`Retail_Project/`](./Retail_Project)
 
 ---
 
