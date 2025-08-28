@@ -58,3 +58,17 @@ This repo contains **two complete data analytics projects** done as part of my 2
 
 ## 📊 Repository Structure
 
+
+---
+
+## ✨ Key Learnings
+- Designed and executed SQL queries for real datasets
+- Used Python for data analysis and visualization
+- Generated actionable business insights
+- Completed end-to-end project documentation
+
+---
+
+## 🏆 Final Note
+This repository reflects my **end-to-end learning journey** across two complete projects during my internship.  
+Each stage was designed to simulate real-world data analytics workflows. 🚀
