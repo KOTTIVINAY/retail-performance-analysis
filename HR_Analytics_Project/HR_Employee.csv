@@ -1,0 +1,7 @@
+EmployeeID,Department,Attrition,MonthlyIncome
+1,Sales,Yes,5000
+2,HR,No,6000
+3,R&D,Yes,7000
+4,Sales,No,5500
+5,HR,Yes,6500
+6,R&D,No,7200
